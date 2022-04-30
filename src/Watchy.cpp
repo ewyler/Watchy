@@ -1,3 +1,4 @@
+#include "arduino_pins.h"
 #include "Watchy.h"
 
 WatchyRTC Watchy::RTC;

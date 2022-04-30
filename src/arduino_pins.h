@@ -2,8 +2,6 @@
 #define ARDUINO_PINS_H
 
 //pins
-#define SDA 21
-#define SCL 22
 #define BATT_ADC_PIN 34
 #define RTC_INT_PIN GPIO_NUM_27
 #define DISPLAY_CS 5
